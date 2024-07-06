@@ -1,0 +1,1 @@
+%USERPROFILE%\AppData\Roaming\Python\Python312\Scripts\streamlit.exe run AnaliseCartaoCredito.py
